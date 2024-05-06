@@ -1,0 +1,53 @@
+{
+  "personal": [
+    {
+      "name": "Ivan",
+      "balance": 6700,
+      "operations": [
+        {
+          "id": 1,
+          "date": "01-01-2024",
+          "category": "profit",
+          "summa": 10000,
+          "description": "Found"
+        }, {
+          "id": 2,
+          "date": "03-03-2024",
+          "category": "expenses",
+          "summa": 4500,
+          "description": "Buy product"
+        }, {
+          "id": 3,
+          "date": "04-01-2024",
+          "category": "profit",
+          "summa": 700,
+          "description": "Gift"}
+        ]
+    },
+    {
+      "name": "Anton",
+      "balance": 179,
+      "operations": [
+        {
+          "id": 4,
+          "date": "06-05-2024",
+          "category": "expenses",
+          "summa": 25,
+          "description": "Buying the car"
+        }, {
+          "id": 5,
+          "date": "07-05-2024",
+          "category": "profit",
+          "summa": 110,
+          "description": "Plata"
+        }, {
+          "id": 6,
+          "date": "08-04-2024",
+          "category": "expenses",
+          "summa": 1,
+          "description": "Buy bread"
+        }
+      ]
+    }
+  ]
+}
